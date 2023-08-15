@@ -1,0 +1,9 @@
+.zone5{
+    height: 100px;
+    margin-top: 5%;
+}
+.linksfoot{
+    display: flex;
+    gap: 20%;
+    text-decoration:none;
+}

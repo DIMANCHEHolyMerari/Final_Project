@@ -1,0 +1,25 @@
+.Zone3{
+    width: 95%;
+    height: 500px;
+    display: flex;
+    margin-top: 50px;
+    border-radius: 20px;
+    margin-left: 3%;
+    gap: 1%;
+}
+.entreprise, .particulier{
+    width: 50%;
+    height: 59%;
+    text-align: center;
+    padding-top: 15%;
+    color: rgb(250, 250, 247);
+    border-radius: 20px;
+    background-color: rgb(12, 38, 62);
+    margin-left: auto;
+    margin-right: auto;
+}
+.entreprise:hover, .particulier:hover {
+    background: #063552;
+  }
+
+

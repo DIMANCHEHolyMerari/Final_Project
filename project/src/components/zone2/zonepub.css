@@ -1,0 +1,10 @@
+.Zonepub{
+    width: 60%;
+    height: auto;
+    color: rgb(254, 252, 252);
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    border-radius: 10%;
+}
